@@ -1,4 +1,4 @@
-p {
+p, ul {
     border: 5px solid powderblue;
     padding: 25px;
   }
@@ -7,7 +7,7 @@ p {
   }
   p, h1, h2, li {
     color: #3fb3ff;
-    font-family: courier;
+    font-family: Arial;
     font-size: 160%;
   }
 iframe {border: 5px solid powderblue }
