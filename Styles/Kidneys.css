@@ -1,3 +1,7 @@
-iframe {
-align-content: right;
+#my-iframe
+{
+    position : absolute;
+    right     : 370px;
+    width    : 1200px;
+    height   : 1200px;
 }
