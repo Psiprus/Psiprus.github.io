@@ -1,3 +1,13 @@
-p, h1, h2, li {
-color: powderblue;
-}
+p {
+    border: 5px solid powderblue;
+    padding: 25px;
+  }
+  body {
+    background-color: #3f4da2;
+  }
+  p, h1, h2, li {
+    color: #3fb3ff;
+    font-family: courier;
+    font-size: 160%;
+  }
+   
